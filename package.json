@@ -1,0 +1,9 @@
+{
+  "name": "atelier-nest",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev": "vite --host 127.0.0.1 --strictPort", "build": "vite build"},
+  "dependencies": {"@vitejs/plugin-react": "latest", "vite": "latest", "react": "latest", "react-dom": "latest", "lucide-react": "latest", "sharp": "latest"},
+  "devDependencies": {}
+}
